@@ -1,6 +1,6 @@
 ## RATAR - Remote Assistance through Augmented Reality
 RATAR is an augmented reality based remote assistance platform. It will change the way technicians work on maintenance and repair operations. RATAR platform allows customer care agents or technicians to work remotely, executing common technical tasks and maintenance procedures in real-time. The display of real-time
-3D annotations on environments and objects help teams solve problems efficiently and with no extra relocation costs. For example, a customer can be guided to troubleshoot his internet modem, set up a security camera, or smart home devices etc.
+3D annotations on environments and objects help teams solve problems efficiently and with no extra relocation costs. For example, a customer can be guided to troubleshoot his internet modem, set up a security camera, or install smart home devices etc.
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
