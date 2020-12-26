@@ -22,9 +22,9 @@ Furthermore, due to the nature of our app, it can be used for remote training of
 
 ### &emsp;&emsp;&emsp;&emsp; Sign up
 ![Sign up](https://i.postimg.cc/zGpDsyHT/1608984956555.jpg)
-### &emsp;&emsp;&emsp;&emsp; Sign up
+### &emsp;&emsp;&emsp;&emsp; Log in
 ![log in](https://i.postimg.cc/2SC89Qyz/1608984956579.jpg)
-### &emsp;&emsp;&emsp;&emsp; Sign up
+### &emsp;&emsp;&emsp;&emsp; Create/Join Channel
 ![Create/Join Channel](https://i.postimg.cc/g0JcmG3Q/1608984956531.jpg)
 
 ### &emsp; Plane Detection during call
