@@ -19,7 +19,7 @@ Furthermore, due to the nature of our app, it can be used for remote training of
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Screenshots 
-(The following screenshots are part of our FYP-1 only)
+(The following screenshots are the major ones and part of our FYP-1 only)
 
 ### Sign up
 ![Sign up](https://i.postimg.cc/zGpDsyHT/1608984956555.jpg)
