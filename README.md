@@ -35,6 +35,7 @@ Furthermore, due to the nature of our app, it can be used for remote training of
 - [React-Native](https://reactnative.dev)
 - [Agora.io](https://www.agora.io/en/)
 - [ViroReact](https://viromedia.com/viroreact)
+- [Firebase](https://firebase.google.com)
 
 ## Features
 - <b>AR 3D annotations</b>: Helpers will be able to draw 3D annotations on his screen that will be rendered to the user’s screen.
@@ -61,14 +62,6 @@ Open another powershell terminal, run the project using the command
 ```bash
 $ npm run android
 ```
-
-## API Reference
-
-To be put in.
-
-## How to use?
-
-- 
 
 ## Credits
 
