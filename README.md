@@ -26,7 +26,7 @@ Furthermore, due to the nature of our app, it can be used for remote training of
 ![log in](https://i.postimg.cc/2SC89Qyz/1608984956579.jpg)
 ![Create/Join Channel](https://i.postimg.cc/g0JcmG3Q/1608984956531.jpg)
 
-### &emsp;&emsp;&emsp;&emsp; Plane Detection during call
+### &emsp;&emsp;&emsp; Plane Detection during call
 ![plane-detection](https://i.postimg.cc/rF5ZJ9NS/Whats-App-Image-2020-12-20-at-10-36-03-PM.jpg)
 
 ## Tech/framework used
