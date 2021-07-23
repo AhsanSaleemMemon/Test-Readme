@@ -34,9 +34,9 @@ Furthermore, due to the nature of our app, it can be used for remote training of
 ## Tech/framework used
 
 <b>Built with</b>
-- [React-Native](https://reactnative.dev)
+- [Java - Android](https://developer.android.com/studio)
 - [Agora.io](https://www.agora.io/en/)
-- [ViroReact](https://viromedia.com/viroreact)
+- [ARCore](https://developers.google.com/ar)
 - [Firebase](https://firebase.google.com)
 - [Node.js](https://nodejs.org/en/)
 
@@ -48,23 +48,9 @@ Furthermore, due to the nature of our app, it can be used for remote training of
 ## Installation
 - Clone the project
 
-- Follow this environment set-up guide for [React-Native](https://reactnative.dev/docs/environment-setup).
+- *Assuming that you have already connected your mobile device to your pc/laptop via a usb cable*
 
-- *Assuming that you have already connected your mobile device to your pc/laptop via a usb cable by following the above guide*
-
-- After that, open the powershell terminal (either directly or in a code-editor), go to the project directory and run the following command to install all the node modules
-
-```bash
-$ npm install
-```
-Start the node server
-```bash
-$ npm start
-```
-Open another powershell terminal, run the project using the command
-```bash
-$ npm run android
-```
+- After that, open android studio and click the 'Run app' button in the top menu
 
 ## Credits
 
@@ -76,3 +62,11 @@ $ npm run android
 - <b>Vuforia Chalk</b>
 - <b>Teamviewer Pilot</b>
 - <b>Worklink by Scope AR</b>
+
+## References
+
+- https://github.com/AgoraIO-Community/Agora-RN-Quickstart
+- https://developers.google.com/ar/develop
+- https://developers.google.com/ar/develop
+- https://rnfirebase.io/
+- https://developer.android.com/docs
