@@ -38,7 +38,6 @@ Furthermore, due to the nature of our app, it can be used for remote training of
 - [Agora.io](https://www.agora.io/en/)
 - [ARCore](https://developers.google.com/ar)
 - [Firebase](https://firebase.google.com)
-- [Node.js](https://nodejs.org/en/)
 
 ## Features
 - <b>AR 3D annotations</b>: Helpers will be able to draw 3D annotations on his screen that will be rendered to the user’s screen.
