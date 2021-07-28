@@ -24,7 +24,7 @@ Furthermore, due to the nature of our app, it can be used for remote training of
 ### Sign up
 ![Sign up](https://i.postimg.cc/zGpDsyHT/1608984956555.jpg)
 ### Helper's Forum
-![helper-forum](https://github.com/AhsanSaleemMemon/Readme-images/blob/main/ratar/1627452213931.jpg)
+![helper-forum](https://i.postimg.cc/BvrW1Znf/1627452214102.jpg)
 ### Create/Join Channel
 ![Create/Join Channel](https://i.postimg.cc/g0JcmG3Q/1608984956531.jpg)
 
