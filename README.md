@@ -26,7 +26,7 @@ Furthermore, due to the nature of our app, it can be used for remote training of
 ### Helper's Forum
 ![helper-forum](https://i.postimg.cc/MKPFQZ93/1627452214072.jpg)
 ### Create/Join Channel
-![Create/Join Channel](https://i.postimg.cc/g0JcmG3Q/1608984956531.jpg)
+![Create/Join Channel](https://i.postimg.cc/MKPFQZ93/1627452214072.jpg)
 
 ### Plane Detection during call
 ![plane-detection](https://i.postimg.cc/rF5ZJ9NS/Whats-App-Image-2020-12-20-at-10-36-03-PM.jpg)
